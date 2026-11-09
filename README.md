@@ -1,5 +1,6 @@
 # Prediction Market Bots
 
+Aldrovanda 2.41 was most succesful
 Source code and historical versions of prediction-market arbitrage scripts.
 
 Credential values in the scripts have been replaced with dummy placeholders.
