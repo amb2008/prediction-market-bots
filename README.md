@@ -8,7 +8,7 @@ Aldrovanda 2.50 was a less successful iteration after 2.41, which attempted to i
 
 The implemented methodology is all function and follows the theory that I developed, however bottlenecks in efficiency pose challenges to scale. If the market shifts between the time that the maker is filled and the taker is placed, the arbitrage may be gone, or you may end up paying more than the guaranteed return. This problem is largely avoidable at low volumes, but it is inevitable with any meaningful trading size.
 
-Other scripts in this repository include experiments with similar methodology applied to polymarket, along with a polymarket-kalshi cross-market arbitrage. Polymarket's fee structure rendered most of these attempts unsuccesful.
+Other scripts in this repository include experiments with similar methodology applied to Polymarket, along with a Polymarket-Kalshi cross-market arbitrage. Polymarket's fee structure rendered most of these attempts unsuccessful. I also experimented with statistical arbitrage between Ethereum and Bitcoin, scraping sports data for an event-driven model, and doing a three-way arbitrage. Most of these experiments came before Aldrovanda and were not as successful. 
 
 Credential values in the scripts have been replaced with dummy placeholders.
 Provide credentials securely outside the source before running any script.
